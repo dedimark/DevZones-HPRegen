@@ -1,6 +1,11 @@
 # DevZones-HPRegen
-Devzones eklentisiyle belirlediğiniz hpregen bölgesinde giren oyuncular X saniyede X can kazanır ve X sınırı vardır
+
+### EN
+It renews as much health as you want in any second in the "hpregen" zone you specify.
+
+### TR
+Belirttiğiniz "hpregen" bölgesinde herhangi bir saniyede istediğiniz kadar sağlık yeniler.
 
 
-# DevZones
+## Required(Gereken): DevZones
 https://github.com/Franc1sco/DevZones
